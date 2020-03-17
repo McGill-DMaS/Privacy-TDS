@@ -1,0 +1,46 @@
+|  This file concerns credit card applications.  All attribute names
+|  and values have been changed to meaningless symbols to protect
+|  confidentiality of the data.
+
+classes:discrete		| Target class attribute
+{Any Class {+} {-}}
+
+A1:discrete:suppression
+{Any {b} {a}}
+A2:continuous
+{13-77 {ignored}}
+A3:continuous
+{0-30 {ignored}}
+A4:discrete:suppression
+{Any {u} {y} {l} {t}}
+A5:discrete:suppression
+{Any {g} {p} {gg}}
+A6:discrete:suppression
+{Any {c} {d} {cc} {i} {j} {k} {m} {r} {q} {w} {x} {e} {aa} {ff}}
+A7:discrete:suppression
+{Any {v} {h} {bb} {j} {n} {z} {dd} {ff} {o}}
+A8:continuous
+{0-30 {ignored}}
+A9:discrete:suppression
+{Any {t} {f}}
+A10:discrete:suppression
+{Any {t} {f}}
+A11:continuous
+{0-70 {ignored}}
+A12:discrete:suppression
+{Any {t} {f}}
+A13:discrete:suppression
+{Any {g} {p} {s}}
+A14:continuous
+{0-2001 {ignored}}
+A15:continuous
+{0-100001 {ignored}}
+
+| vid: | Top5
+| {{{100} {A9} {A11} {A10} {A8} {A15}}}
+
+| vid: | Top7
+| {{{100} {A9} {A11} {A10} {A8} {A15} {A7} {A14}}}
+
+vid: | Top9
+{{{100} {A9} {A11} {A10} {A8} {A15} {A7} {A14} {A6} {A5}}}

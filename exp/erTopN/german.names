@@ -1,0 +1,22 @@
+good, bad.
+
+Status: Any, 0DM, less-200DM, over-200DM, no-account.
+Duration: 4.00-73.00, 4.00-16.00, 16.00-73.00, 4.00-9.00, 9.00-16.00, 16.00-45.00, 45.00-73.00.
+Credit-history: Any, all-paid-duly, bank-paid-duly, duly-till-now, delay, critical.
+Purpose: Any, new-car, used-car, furniture, radio-tv, domestic-app, repairs, education, vacation, retraining, business, others.
+Credit: 250.00-18425.00, 250.00-3914.00, 3914.00-18425.00.
+Savings-account: Any, less100DM, less500DM, less1000DM, over1000DM, unknown.
+Employment: Any, unemployed, one-year, four-years, seven-years, over-seven.
+Installment-rate: continuous
+Personal-status: Any, male-divorced, female-divorced, single-male, married-male, single-female.
+Debtors: Any, none, co-applicant, guarantor.
+Residence-time: continuous
+Property: Any, real-estate, building-society, car, none.
+Age: continuous
+Installments: Any, bank, stores, none.
+Housing: Any, rent, own, free.
+Existing-credits: continuous
+Job: Any, unemployed-non-resident, unskilled-resident, skilled, management.
+Liable-people: continuous
+Telephone: Any, yes, no.
+Foreign: Any, yes, no.

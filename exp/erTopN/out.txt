@@ -1,0 +1,23 @@
+***************************************
+* Privacy Data Transformer - Top Down *
+***************************************
+Current System Time = 1110864985
+Reading attributes...
+Reading attributes succeeded.
+Current System Time = 1110864985
+Reading virtual identifiers...
+Reading virtual identifiers succeeded.
+Current System Time = 1110864985
+Reading records...
+Reading records succeeded.
+Current System Time = 1110864985
+Partitioning data...
+Partitioning data succeeded.
+Current System Time = 1110864985
+Writing records...
+Writing records succeeded.
+Current System Time = 1110864985
+Writing name file...
+Writing name file succeeded.
+Current System Time = 1110864985
+Bye!

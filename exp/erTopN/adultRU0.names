@@ -1,0 +1,16 @@
+>50K, <=50K.
+
+age: 15.00-95.00, 15.00-28.00, 28.00-95.00.
+workclass: Any, Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked.
+fnlwgt: continuous
+education: Any, Preschool, 1st-4th, 5th-6th, 7th-8th, 9th, 10th, 11th, 12th, HS-grad, Some-college, Assoc-acdm, Assoc-voc, Bachelors, Prof-school, Masters, Doctorate.
+education-num: 1.00-20.00, 1.00-13.00, 13.00-20.00, 1.00-9.00, 9.00-13.00, 13.00-15.00, 15.00-20.00.
+martial-status: Any, Married-civ-spouse, Married-AF-spouse, Divorced, Separated, Widowed, Married-spouse-absent, Never-married.
+occupation: Any, Exec-managerial, Prof-specialty, Sales, Adm-clerical, Tech-support, Craft-repair, Machine-op-inspct, Handlers-cleaners, Transport-moving, Priv-house-serv, Protective-serv, Armed-Forces, Farming-fishing, Other-service.
+relationship: Any, Wife, Own-child, Husband, Not-in-family, Other-relative, Unmarried.
+race: Any, White, Asian-Pac-Islander, Amer-Indian-Eskimo, Other, Black.
+sex: Any, Female, Male.
+capital-gain: 0.00-100000.00, 0.00-7262.00, 7262.00-100000.00, 0.00-5178.00, 5178.00-7262.00, 7262.00-7443.00, 7443.00-100000.00.
+capital-loss: continuous
+hours-per-week: continuous
+native-country: Any, United-States, Outlying-US(Guam-USVI-etc), Canada, Mexico, Honduras, Guatemala, Nicaragua, El-Salvador, Ecuador, Peru, Columbia, Puerto-Rico, Dominican-Republic, Jamaica, Cuba, Haiti, Trinadad&Tobago, France, England, Ireland, Scotland, Holand-Netherlands, Italy, Greece, Portugal, Yugoslavia, Hungary, Germany, Poland, Philippines, Thailand, Cambodia, Vietnam, Laos, India, Japan, China, Hong, Taiwan, South, Iran.
